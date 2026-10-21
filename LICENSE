@@ -1,0 +1,39 @@
+Creative Space
+Copyright (c) 2026 Vinay Soraya / Creative Space
+
+Except where otherwise noted, original material in this project (copy,
+original graphics, PHP application code, and the GnarledTree production
+mark) is licensed under the Creative Commons Attribution 4.0 International
+License (CC BY 4.0).
+
+You may share and adapt that material, including for commercial use,
+provided you give appropriate credit, link to the licence, and indicate
+if changes were made.
+
+Full legal code: https://creativecommons.org/licenses/by/4.0/legalcode
+Summary: https://creativecommons.org/licenses/by/4.0/
+
+Suggested attribution:
+  Creative Space (Vinay Soraya), licensed under CC BY 4.0.
+
+---
+
+Forty template
+
+The layout is based on Forty by HTML5 UP (AJ, @ajlkn).
+https://html5up.net/forty
+https://html5up.net/license
+
+Forty is licensed under Creative Commons Attribution 3.0 Unported
+(CC BY 3.0): https://creativecommons.org/licenses/by/3.0/
+
+Keep the HTML5 UP credit in the site footer if you reuse the Forty-based
+layout.
+
+---
+
+Third-party libraries bundled with Forty keep their own licences,
+including jQuery (MIT) and Font Awesome 4.
+
+Runtime files are not part of the licensed source and must not be
+published: data/config.php, data/messages.json, and data/rate-limit.json.

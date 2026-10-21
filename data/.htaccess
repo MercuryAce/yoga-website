@@ -1,0 +1,13 @@
+# Keep recipes.json, messages.json, and config.php off the public web.
+# Uploaded pictures in uploads/ must stay visible.
+
+<FilesMatch "\.(php|json)$">
+	<IfModule mod_authz_core.c>
+		Require all denied
+	</IfModule>
+	<IfModule !mod_authz_core.c>
+		Deny from all
+	</IfModule>
+</FilesMatch>
+
+Options -Indexes

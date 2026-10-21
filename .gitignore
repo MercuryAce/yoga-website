@@ -1,0 +1,13 @@
+# Secrets and runtime data
+data/config.php
+data/messages.json
+data/rate-limit.json
+data/uploads/*
+!data/uploads/.gitkeep
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*~
+*.swp
+.idea/

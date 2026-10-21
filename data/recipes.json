@@ -1,0 +1,128 @@
+[
+    {
+        "id": "vegan-curry",
+        "title": "Vegan curry",
+        "image": "images/curry.jpg",
+        "ingredients": [
+            "4 tbsp olive oil",
+            "2 large onions, halved and sliced",
+            "3 garlic cloves, crushed",
+            "Thumb-sized piece of root ginger, peeled",
+            "1 tsp paprika",
+            "½ tsp cayenne",
+            "2 red chillies, deseeded and sliced",
+            "2 red peppers, deseeded and sliced",
+            "250g red cabbage, shredded",
+            "1kg sweet potatoes, peeled and chopped",
+            "300g passata",
+            "400ml coconut milk",
+            "2 tbsp peanut butter"
+        ],
+        "icing": [],
+        "serve": "A small bunch of fresh coriander, finely chopped, on a bed of cooked couscous.",
+        "method": [
+            "Heat 1 tbsp olive oil in a large non-stick frying pan and add the onion. Fry gently for 10 mins until soft then add the garlic and grate the ginger straight into the pan. Stir in the paprika and the cayenne and cook for another minute then tip into the slow cooker.",
+            "Return the pan to the heat and add another 1 tbsp oil along with the chilli, red pepper and shredded cabbage. Cook for 4–5 mins then tip into the slow cooker.",
+            "Use the remaining oil to fry the sweet potatoes in batches. Cook for around 5 mins or just until they start to pick up colour at the edges, then put them in the slow cooker too.",
+            "Pour the passata and the coconut milk over the sweet potatoes, stir, cover, and cook for 6–8 hours or until the sweet potatoes are tender.",
+            "Stir the peanut butter through the curry, season well, and serve with couscous and chopped coriander."
+        ]
+    },
+    {
+        "id": "vegan-shepherds-pie",
+        "title": "Vegan shepherd’s pie",
+        "image": "images/shep.jpg",
+        "ingredients": [
+            "1.2kg floury potatoes, such as Maris Piper or King Edward",
+            "50ml vegetable oil",
+            "30g dried porcini mushrooms, soaked in hot water for 15 mins, then drained (reserve the liquid)",
+            "2 large leeks, chopped",
+            "2 small onions, chopped",
+            "4 medium carrots (about 300g), cut into small cubes",
+            "1 vegan vegetable stock cube",
+            "3 garlic cloves, crushed",
+            "2 tbsp tomato purée",
+            "2 tsp smoked paprika",
+            "1 small butternut squash, peeled and cubed",
+            "½ small pack marjoram or oregano, leaves roughly chopped",
+            "½ small pack thyme, leaves picked",
+            "½ small pack sage, leaves roughly chopped",
+            "4 celery sticks, chopped",
+            "400g can chickpeas",
+            "300g frozen peas",
+            "300g frozen spinach",
+            "20ml olive oil",
+            "Small pack flat-leaf parsley, chopped",
+            "Tomato ketchup, to serve (optional)"
+        ],
+        "icing": [],
+        "serve": "",
+        "method": [
+            "Put the unpeeled potatoes in a large saucepan, cover with water, bring to the boil and simmer for 40 mins until the skins start to split. Drain and leave to cool a little.",
+            "Heat the vegetable oil in a large heavy-based pan. Add the mushrooms, leeks, onions, carrots and the stock cube and cook gently for 5 mins, stirring. The veg should be soft but not mushy.",
+            "Add the garlic, tomato purée, paprika, squash and herbs. Stir and turn the heat up a bit, cook for 3 mins, add the celery, then stir and cook for a few more mins.",
+            "Tip in the chickpeas along with the water in the can and reserved mushroom stock. Add the peas and spinach and stir well. Cook for 5 mins, then season and set aside. There should still be plenty of liquid and the veg should be bright and a little firm.",
+            "Peel the potatoes. Mash 200g with a fork and stir into the veg. Break the rest into chunks, mix with the olive oil and parsley, and season.",
+            "Divide the filling into pie dishes and top with the potatoes. Heat oven to 190C/170C fan/gas 5 and bake for 40–45 mins, until the top is golden. Individual pies: check after 20 mins."
+        ]
+    },
+    {
+        "id": "banana-cupcakes",
+        "title": "Banana cupcakes",
+        "image": "images/cupcake.jpg",
+        "ingredients": [
+            "240g self-raising flour",
+            "140g golden caster sugar",
+            "1 tsp bicarbonate of soda",
+            "½ tsp salt",
+            "240g egg-free mayonnaise",
+            "2 large or 3 small ripe bananas, mashed",
+            "1 tsp vanilla extract",
+            "25g vegan dark chocolate chips"
+        ],
+        "icing": [
+            "80g vegan margarine",
+            "250g icing sugar",
+            "25ml vegan milk (almond works well)",
+            "2 tbsp smooth peanut butter"
+        ],
+        "serve": "",
+        "method": [
+            "Heat oven to 170C/150C fan/gas 3½. Line muffin tins with 16 cases. Combine the flour, sugar, salt and bicarbonate of soda. In a second bowl, mix the mayonnaise, mashed bananas and vanilla. Pour the wet into the dry and mix until just combined. Spoon into the cases and bake for 20 mins.",
+            "When the cupcakes come out of the oven, sprinkle the chocolate chips over — they will melt and then harden again.",
+            "For the icing, combine the vegan margarine and icing sugar, then add the vegan milk and mix until smooth. Stir in the peanut butter. Pipe or spread on top. Store in an airtight container and eat within 2 days."
+        ]
+    },
+    {
+        "id": "paneer-korma",
+        "title": "Paneer korma",
+        "image": "images/recipes/paneer-korma.jpg",
+        "ingredients": [
+            "300g paneer cut into cubes",
+            "2 large thinly sliced onions",
+            "10 cashews and 5 almonds (soaked in warm water for 5 minutes)",
+            "1 table spoon of crushed ginger and garlic",
+            "1/2 cup of yoghurt curd",
+            "3 table spoons of ghee or oil"
+        ],
+        "icing": [
+            "1 bay leaf, 1 cinnamon stick, 3 green cardamoms, 4 cloves, 1/2 tea spoon cumin seeds",
+            "1 table spoon Kashmir red chilli power",
+            "1 and 1/2 tea spoons coriander powder",
+            "1/4 tea spoon turmeric",
+            "1/2 tea spoon garam masala",
+            "1 tea spoon crushed fenugreek leaves",
+            "seasoning"
+        ],
+        "serve": "Fresh cream (optional)",
+        "method": [
+            "1. Prepare the Paneer: Heat 1 tablespoon of oil or ghee in a pan. Lightly sear the paneer cubes for 2–3 minutes until just slightly golden. Immediately transfer them into a bowl of warm water to keep them incredibly soft while you make the gravy.",
+            "2. Brown the Onions: In the same pan, add another tablespoon of oil/ghee. Fry the sliced onions over medium heat for about 10 minutes until they turn a deep golden brown (do not burn them). Remove and let them cool.",
+            "3. Blend the Base Paste: In a blender, combine the fried onions, soaked nuts (drained), and 2 tablespoons of water. Blend into a completely smooth, thick paste.",
+            "4. Bloom the Spices: Heat the remaining ghee or oil in your pan over a medium-low flame. Add the whole spices (bay leaf, cinnamon, cardamom, cloves, cumin seeds) and let them sizzle for a few seconds until fragrant. Stir in the ginger-garlic paste and sauté for 1 minute.",
+            "5. Build the Gravy: Turn the heat down to low. Stir in the red chilli powder, coriander powder, and turmeric. Immediately add the blended onion-nut paste so the dry spices don't burn. Sauté for 3–4 minutes until the oil starts to separate at the edges.",
+            "6. Incorporate the Yogurt: Keep the flame on low (or temporarily turn it off) and slowly whisk in the beaten yogurt to prevent curdling. Stir continuously until fully combined, then bring it back to a gentle simmer for 4–5 minutes.",
+            "7. Simmer and Finish: Drain the paneer cubes and add them to the gravy along with salt and about ½ cup of water to adjust the thickness. Cover and    simmer on low for 5 minutes so the flavors merge. Finish by sprinkling garam masala, crushed kasuri methi, and a drizzle of fresh cream if using."
+        ]
+    }
+]

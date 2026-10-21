@@ -1,0 +1,27 @@
+{
+  "name": "Creative Space",
+  "short_name": "Creative Space",
+  "description": "Private and group yoga with Vinay Soraya in Shoreditch, London.",
+  "start_url": "/index.php",
+  "display": "browser",
+  "background_color": "#2f332c",
+  "theme_color": "#2f332c",
+  "lang": "en-GB",
+  "icons": [
+    {
+      "src": "/images/favicon-32.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "/images/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    },
+    {
+      "src": "/images/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
