@@ -68,8 +68,6 @@ define('CS_ADMIN_PASSWORD_HASH', '$2y$12$JbIenT5eLy4ew241MJOrnO2agJviOEuZcoq0oOi
 | `CS_ADMIN_USER` | Admin username |
 | `CS_ADMIN_PASSWORD_HASH` | bcrypt hash of the admin password |
 
-Studio email (`mycreativesspace.yoga@gmail.com`) and phone (`07399 968655`) on the public pages are unchanged. `CS_MAIL_TO` is the same address used for form mail.
-
 ## Admin
 
 1. Open `/admin/login.php`
